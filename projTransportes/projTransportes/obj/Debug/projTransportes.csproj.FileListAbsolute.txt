@@ -1,0 +1,18 @@
+c:\users\eduardo\documents\visual studio 2015\Projects\projTransportes\projTransportes\bin\Debug\projTransportes.exe.config
+c:\users\eduardo\documents\visual studio 2015\Projects\projTransportes\projTransportes\bin\Debug\projTransportes.exe
+c:\users\eduardo\documents\visual studio 2015\Projects\projTransportes\projTransportes\bin\Debug\projTransportes.pdb
+c:\users\eduardo\documents\visual studio 2015\Projects\projTransportes\projTransportes\obj\Debug\projTransportes.csprojResolveAssemblyReference.cache
+c:\users\eduardo\documents\visual studio 2015\Projects\projTransportes\projTransportes\obj\Debug\projTransportes.Form1.resources
+c:\users\eduardo\documents\visual studio 2015\Projects\projTransportes\projTransportes\obj\Debug\projTransportes.Properties.Resources.resources
+c:\users\eduardo\documents\visual studio 2015\Projects\projTransportes\projTransportes\obj\Debug\projTransportes.csproj.GenerateResource.Cache
+c:\users\eduardo\documents\visual studio 2015\Projects\projTransportes\projTransportes\obj\Debug\projTransportes.exe
+c:\users\eduardo\documents\visual studio 2015\Projects\projTransportes\projTransportes\obj\Debug\projTransportes.pdb
+E:\ed2\projTransportes\projTransportes\bin\Debug\projTransportes.exe.config
+E:\ed2\projTransportes\projTransportes\obj\Debug\projTransportes.exe
+E:\ed2\projTransportes\projTransportes\obj\Debug\projTransportes.pdb
+E:\ed2\projTransportes\projTransportes\bin\Debug\projTransportes.exe
+E:\ed2\projTransportes\projTransportes\bin\Debug\projTransportes.pdb
+E:\ed2\projTransportes\projTransportes\obj\Debug\projTransportes.csprojResolveAssemblyReference.cache
+E:\ed2\projTransportes\projTransportes\obj\Debug\projTransportes.Form1.resources
+E:\ed2\projTransportes\projTransportes\obj\Debug\projTransportes.Properties.Resources.resources
+E:\ed2\projTransportes\projTransportes\obj\Debug\projTransportes.csproj.GenerateResource.Cache
